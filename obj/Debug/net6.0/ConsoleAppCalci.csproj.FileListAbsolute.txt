@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\bin\Debug\net6.0\ConsoleAppCalci.exe
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\bin\Debug\net6.0\ConsoleAppCalci.deps.json
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\bin\Debug\net6.0\ConsoleAppCalci.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\bin\Debug\net6.0\ConsoleAppCalci.dll
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\bin\Debug\net6.0\ConsoleAppCalci.pdb
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.dll
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\refint\ConsoleAppCalci.dll
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.pdb
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ref\ConsoleAppCalci.dll
+C:\Users\Admin\source\repos\ConsoleAppCalci\ConsoleAppCalci\obj\Debug\net6.0\ConsoleAppCalci.sourcelink.json
